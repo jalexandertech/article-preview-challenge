@@ -1,3 +1,24 @@
-.attribution { font-size: 11px; text-align: center; }
+html{
+    background: #F2F2F2;
+}
+.attribution { font-size: 11px; text-align: center;
+position: relative;
+top: 150px;
+right:120px; }
 
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution a { color: hsl(228, 45%, 44%);}
+
+.card{
+    position: absolute;
+width: 730px;
+height: 280px;
+left: 355px;
+top: 260px;
+}
+
+img{
+width: 285px;
+height: 280px;
+left: 355px;
+top: 260px;
+}
