@@ -33,7 +33,8 @@ right:120px; }
 .card-img{
 width: 285px;
 height: 280px;
-
+border-bottom-right-radius: unset;
+border-top-right-radius: unset;
 }
 
 h5{
@@ -44,7 +45,7 @@ h5{
 
 .main{
     font-size: 13px;
-    font-weight: 700;
+    font-weight: 500;
     color: hsl(212, 23%, 69%);
 }
 
