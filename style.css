@@ -31,13 +31,6 @@ right:160px; }
      html {background-color: hsl(210, 46%, 95%);}
     
     }
- 
-    .card-body{
-        padding: 2rem;
-    }
-
-
-
 
 
 h5{
@@ -53,9 +46,6 @@ h5{
     margin-bottom: 52px;
 }
 
-.author-img p{
-    padding: 52px;
-}
 .author-img{
     float: left;
     border-radius: 50%;
