@@ -73,23 +73,30 @@ h5{
 .icon-share{
     padding-left: 8px;
 }
-
-/* .icon{
-    width: 15px;
+/* 
+.icon{
     height: 13px;
-  display: inline-block;
+    float: right;
+    padding-left: 10px;
 }
 
 .social-icons{
-  background:  hsl(217, 19%, 35%); 
-  width: 248px;
-height: 67.71px;
+  background-color:  hsl(217, 19%, 35%); 
+  width: 150px;
+height: 30px;
+margin: -70px 0 0 -70px;
+border-radius: 4px;
+display: flex;
+padding-top: 7px;
 }
 
 .social-icons p{
     text-transform: uppercase;
-    letter-spacing: 1em; */
-    /* font-size: 13px;
+    letter-spacing: 5px;
+    font-size: 10px;
+    padding-left:10px;
+    color: #ffffff;
+    
 } */
 
 .attribution { font-size: 11px; text-align: center; top: 320px; left:200; position: absolute;} 
