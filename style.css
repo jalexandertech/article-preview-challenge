@@ -11,6 +11,7 @@
         position: absolute;
         width: 595px;
         height: 265px;
+        left:480px;
         background: #FFFFFF;
         box-shadow: 0px 40px 40px -10px rgba(201, 213, 225, 0.503415);
         border-radius: 10px;}
@@ -100,6 +101,6 @@ padding-top: 7px;
     
 } */
 
-.attribution { font-size: 11px; text-align: center; top: 320px; left:200; position: absolute;} 
+.attribution { font-size: 11px; text-align: center; top: 320px; left:250; position: absolute;} 
 
 .attribution a { color: hsl(228, 45%, 44%);}
