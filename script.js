@@ -1,3 +1,10 @@
- let image = document.querySelector("#share-btn")
+function openClose(){
+    var container = document.querySelector('#social-icons');
+    if (container.style.display === "flex") {
+        container.style.display = "none";
+    }
 
- image.onclick = toggleClass;
+    else {
+        container.style.display ="flex"
+    }
+}
