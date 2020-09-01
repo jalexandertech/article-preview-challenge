@@ -3,6 +3,8 @@
     margin: 0 auto;
     box-sizing: border-box;
     font-family: 'Manrope', sans-serif;
+ 
+    justify-content: center;
 }
 
 body {
@@ -13,21 +15,23 @@ body {
 /* Mobile Responsive */
 
 @media screen and (min-width: 374px) {
+
     .my-card {
-        margin-top: 10px;
+        margin-top: 20px;
         margin-left:10px;
         margin-right: 10px;
         background: #FFFFFF;
         box-shadow: 0px 40px 40px -10px rgba(201, 213, 225, 0.503415);
         border-radius: 10px;
+
     }
    .share-icon{
      
-       margin-left:-120px;
+       margin-left:-150.8px;
        margin-bottom: -28px;
    }
    .social{
-       margin-left: -125px;
+       margin-left:-155.8px;
        margin-bottom: -25px;
 
    }
@@ -48,6 +52,16 @@ body {
         background: #FFFFFF;
         box-shadow: 0px 40px 40px -10px rgba(201, 213, 225, 0.503415);
         border-radius: 10px;
+    }
+    .share-icon{
+     
+        margin-left:-80.8px;
+        margin-bottom: -28px;
+    }
+    .social{
+        margin-left:-85.8px;
+        margin-bottom: -25px;
+ 
     }
 }
 
